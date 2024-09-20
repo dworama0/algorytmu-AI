@@ -1,0 +1,294 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" theme="">
+<head>
+    <meta charset="UTF-8"/>
+    <title>JetBrains Datalore: A powerful environment for Jupyter notebooks.</title>
+    <meta name="description"
+          content="Use smart coding assistance for Python, SQL, R and Scala in Jupyter notebooks, run code on powerful CPUs and GPUs, collaborate with your team, and easily share the results.">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="Expires" content="0"/>
+    <link rel="shortcut icon" href="/logo.ico">
+
+    
+
+
+
+
+
+
+
+
+
+<meta name="referrer" content="origin">
+<meta name="viewport" content="width=device-width, maximum-scale=1">
+
+<link rel="stylesheet" href="/static/pages.deps.prod.css?v=22470">
+<link rel="stylesheet" href="/static/pages.css?v=22470">
+<link rel="preload" as="image" href="/assets/landing/background.png" />
+
+
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N48QGT7J');</script>
+<!-- End Google Tag Manager -->
+
+
+
+    
+
+
+
+
+
+
+
+
+<meta property="og:url" content="https://datalore.jetbrains.com/index.jsp"/>
+<meta property="og:title" content="Datalore: Collaborative Data Science Platform by JetBrains"/>
+<meta property="og:description" content="Online Jupyter notebooks with smart coding assistance for Python, SQL, R, Scala, and Kotlin. Take advantage of database and cloud storage integrations, real-time collaboration, and interactive report publishing.">
+
+
+
+<meta property="og:image" content="https://datalore.jetbrains.com/assets/images/og.png"/>
+
+</head>
+<body data-route="LANDING">
+
+
+
+
+
+
+
+
+
+
+<script>
+
+  
+  window["appName"] = 'Datalore';
+  
+  window["PLANS_ENABLED"] = 'true';
+  
+  window["ON_PREMISE"] = 'false';
+  
+  window["GIFT_CODES_ENABLED"] = 'true';
+  
+  window["FRONTEND_URL_OVERRIDE"] = 'https:\/\/datalore.jetbrains.com';
+  
+  window["USER_CONTENT_URL"] = 'https:\/\/*.dataloreusercontent.com';
+  
+  window["HUB_ENABLED"] = 'false';
+  
+  window["HUB_PUBLIC_BASE_URL"] = '';
+  
+  window["JB_STORE_BASE_URL"] = 'https:\/\/jetbrains.com\/';
+  
+  window["JBACCOUNT_BASE_URL"] = 'https:\/\/account.jetbrains.com\/';
+  
+  window["NOTEBOOK_VIEWER"] = 'false';
+  
+  window["ENABLE_EXPERIMENTAL_FEATURES"] = '';
+  
+  window["CAPTCHA_ENABLED"] = 'true';
+  
+  window["CAPTCHA_KEY"] = '6LfflqYfAAAAANNVlYX0QETS-BZrypUJIHhDj9MM';
+  
+  window["FORCE_EMAIL_VERIFICATION"] = 'true';
+  
+  window["EMAIL_ALLOWLIST_ENABLED"] = 'false';
+  
+  window["FLAGS_PANEL_ENABLED"] = 'false';
+  
+  window["BUILD_NUMBER"] = '22470';
+  
+  window["BUILD_DATE"] = '1726769440';
+  
+  window["ON_PREMISES_VERSION"] = '';
+  
+  window["BUILD_HASH"] = '8c16e3c0a4929df8c15d99f7d19ac073186366c0';
+  
+  window["USER_CONSENTS_ENABLED"] = 'true';
+  
+  window["USER_NOTEBOOK_SHARING_DISABLED"] = 'false';
+  
+  window["USER_WORKSPACE_SHARING_DISABLED"] = 'false';
+  
+  window["USER_WORKSPACE_CREATION_DISABLED"] = 'false';
+  
+  window["USER_WORKSPACE_EXPORT_DISABLED"] = 'false';
+  
+  window["USER_REPORT_EDIT_COPY_DISABLED"] = 'false';
+  
+  window["TOS_ENABLED"] = 'true';
+  
+  window["MAINTENANCE_API_ENABLED"] = 'true';
+  
+
+  
+  
+
+  
+    window["userId"] = '';
+  
+  
+
+  
+    window["ROUTE"] = 'LANDING';
+  
+  
+
+  
+    window["SC"] = '200';
+  
+  
+
+  
+    window["ERROR_MSG"] = '';
+  
+  
+
+  
+    window["ALERT_MSG"] = '';
+  
+  
+
+  
+    window["IS_LOCAL_DEV"] = '';
+  
+  
+
+  
+    window["THEME"] = '';
+  
+  
+
+  
+    window["PROFESSIONAL_PRICE"] = '';
+  
+  
+
+  
+    window["ACCEPTED_TERMS_OF_SERVICE_VERSION"] = '';
+  
+  
+
+  
+    
+  
+
+  
+    window["IS_JB_USER"] = '';
+  
+  
+
+  
+    window["NEW_GIT_REPOSITORIES_ENABLED"] = 'true';
+  
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script defer type="text/javascript"
+        src="/static/pages.icons.js?v=22470">
+</script>
+<script defer type="text/javascript"
+        src="/static/pages.deps.min.js?v=22470">
+</script>
+<script defer type="text/javascript" id="mainjs"
+        src="/static/pages.tvm.min.js?v=22470">
+</script>
+
+
+
+
+
+
+
+
+
+
+<div class='wtu-page'><div data-test="layout" class="wt-layout landing" data-reactroot=""><div class="wtu-page-background wt-section_bg_gray-dark"><img class="wtu-page-background__image" src="/assets/landing/background.png" alt="Gradient background"/></div><header data-test="layout-header" class="wt-layout__header wtu-page-header"><div class="wt-container"><div class="wt-row wt-row_size_0 wt-row_align-items_center"><div class="wt-col-auto-fill wtu-page-header__main"><a href="https://jetbrains.com/datalore/" class="wtu-page-header__title wt-h3 wt-h3_theme_dark">Datalore</a></div><div class="wtu-page-menu"><a target="_blank" class="wt-col-inline wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_average wtu-page-menu__menu-link" href="https://www.jetbrains.com/datalore/enterprise/whatsnew">What&#x27;s new</a><a target="_blank" class="wt-col-inline wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_average wtu-page-menu__menu-link" href="https://www.jetbrains.com/datalore/enterprise">For Teams</a><a target="_blank" class="wt-col-inline wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_average wtu-page-menu__menu-link" href="https://www.jetbrains.com/datalore/features">Features</a><button class="wtu-page-menu__dropdown wt-col-inline wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_average wtu-page-dropdown__button">Learn<svg viewBox="0 0 16 16" class="wt-icon wt-icon_size_xs"><path d="M8 12L2.75 6h10.5L8 12z"></path></svg></button><a target="_blank" class="wt-col-inline wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_average wtu-page-menu__menu-link" href="https://www.jetbrains.com/datalore/buy">Pricing</a><button data-test="button" type="button" class="_wt-button_1b4x9rv_1 _wt-button_mode_primary_1b4x9rv_180 _wt-button_size_s_1b4x9rv_106 _wt-button_theme_dark_1b4x9rv_81 wt-button_align-icon_left">Get a demo</button></div></div></div></header><main data-test="layout-content" class="wt-layout__content wtu-page-content"><div class="wt-container wtu-page-content__container"><div class="wtu-page-content__content"><div class="wtu-page-content__main"><h1 class="wt-h2 wt-h2_theme_dark">Log in</h1><form class="landing__form login-form"><div class="wt-text-2 wt-text-2_theme_dark">Not signed up yet? <button data-test="button" type="button" class="_wt-button_1b4x9rv_1 _wt-button_mode_nude_1b4x9rv_533 _wt-button_size_m_1b4x9rv_96 _wt-button_theme_dark_1b4x9rv_81 wt-button_align-icon_left landing-buttons-link">Create an account</button></div><div class=" login-inputs"><label class="_wt-input_1d6ev5a_1 _wt-input_theme_light_1d6ev5a_12 _wt-input_size_m_1d6ev5a_63 wt-input_empty wt-input_icon-position_right wt-offset-top-24" data-test="input"><div class="_wt-input__wrapper_1d6ev5a_4"><div class="_wt-input__field_1d6ev5a_44"><input type="email" placeholder="Email" class="_wt-input__inner_1d6ev5a_78" aria-invalid="false"/></div></div></label><label class="_wt-input_1d6ev5a_1 _wt-input_theme_light_1d6ev5a_12 _wt-input_size_m_1d6ev5a_63 wt-input_empty wt-input_icon wt-input_icon-position_right wt-offset-top-12" data-test="input"><div class="_wt-input__wrapper_1d6ev5a_4"><div class="_wt-input__field_1d6ev5a_44"><input type="password" placeholder="Password" class="_wt-input__inner_1d6ev5a_78" aria-invalid="false"/><svg viewBox="0 0 24 24" class="wt-icon wt-icon_theme_light wt-icon_size_m _wt-input__icon_1d6ev5a_229 _wt-input__icon_right_1d6ev5a_237 _wt-input__icon_action_1d6ev5a_234"><path d="M12 18.122a11.283 11.283 0 0 1-9.729-5.621L1.981 12l.29-.501a11.23 11.23 0 0 1 19.457 0l.29.501-.29.501A11.283 11.283 0 0 1 12 18.122zM4.314 12a9.226 9.226 0 0 0 15.372 0 9.226 9.226 0 0 0-15.372 0z"></path><circle cx="12" cy="12" r="3"></circle></svg></div></div></label></div><div class="wt-offset-top-24" id="captcha-box" hidden=""></div><div><div class="wt-offset-top-24"><button data-test="button" type="button" class="_wt-button_1b4x9rv_1 _wt-button_mode_primary_1b4x9rv_180 _wt-button_size_m_1b4x9rv_96 _wt-button_theme_dark_1b4x9rv_81 wt-button_align-icon_left">Log in</button></div><div class="login-form__button wt-text-2 wt-text-2_hardness_hard wt-offset-top-12"><button data-test="button" type="button" class="_wt-button_1b4x9rv_1 _wt-button_mode_nude_1b4x9rv_533 _wt-button_size_m_1b4x9rv_96 _wt-button_theme_dark_1b4x9rv_81 wt-button_align-icon_left landing-buttons-link">Forgot your password?</button></div><div class="wt-offset-top-24"><button data-test="button" type="button" class="_wt-button_1b4x9rv_1 _wt-button_mode_outline_1b4x9rv_393 _wt-button_size_m_1b4x9rv_96 _wt-button_theme_dark_1b4x9rv_81 _wt-button_with-icon_1b4x9rv_161 wt-button_align-icon_left"><svg class="landing-buttons-icon wt-icon_size_m"><use href="#icon-google-dark"></use></svg>Log in with Google</button></div><div class="wt-offset-top-12"><button data-test="button" type="button" class="_wt-button_1b4x9rv_1 _wt-button_mode_outline_1b4x9rv_393 _wt-button_size_m_1b4x9rv_96 _wt-button_theme_dark_1b4x9rv_81 wt-button_align-icon_left">Log in with JetBrains Account</button></div></div></form><div class="landing__enterprise-text wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_hard wt-offset-top-12"><a class="landing-link wt-text-2 wt-text-2_theme_dark wt-text-2_hardness_hard" href="https://www.jetbrains.com/datalore/enterprise">Try Datalore Enterprise</a> to connect Okta, SAML, AzureAD, etс</div></div><div class="wtu-page-content__aside"><div class="wtu-page-content__aside-description"><h2 class="wt-h1 wt-h1_theme_dark wtu-page-content__aside-title">Datalore<br/>is a collaborative<br/>data science<br/>platform</h2></div><div class="wtu-page-content__aside-footer"><div class="wtu-page-footer"><h3 class="wt-h2 wt-h2_theme_dark wtu-page-footer__subtitle">Get support</h3><div class="wtu-page-footer__links"><div class="wt-text-2 wt-text-2_theme_dark wtu-page-footer__link"><svg viewBox="0 0 24 24" class="wt-icon wt-icon_size_m wt-icon_theme_dark"><path d="M16.444 5H7.556a5.556 5.556 0 0 0 0 11.111v4.445L12 16.11h4.444a5.556 5.556 0 0 0 0-11.111zM6.5 12A1.5 1.5 0 1 1 8 10.5 1.5 1.5 0 0 1 6.5 12zm5.5 0a1.5 1.5 0 1 1 1.5-1.5A1.5 1.5 0 0 1 12 12zm5.5 0a1.5 1.5 0 1 1 1.5-1.5 1.5 1.5 0 0 1-1.5 1.5z"></path></svg><a class="wt-link wt-link_hardness_hard wt-link_theme_dark" href="mailto:contact@datalore.jetbrains.com" target="_blank">Support</a></div><div class="wt-text-2 wt-text-2_theme_dark wtu-page-footer__link"><svg viewBox="0 0 24 24" class="wt-icon wt-icon_size_m wt-icon_theme_dark"><path d="M13 3H5v16.057A2.943 2.943 0 0 0 7.943 22h8.114A2.943 2.943 0 0 0 19 19.057V9zm3.005 17h-8.01A.995.995 0 0 1 7 19.006V5h5v5h5v9.006a.995.995 0 0 1-.995.994z"></path></svg><a class="wt-link wt-link_hardness_hard wt-link_theme_dark" href="https://www.jetbrains.com/help/datalore/dl-help-home.html" target="_blank">Documentation</a></div><div class="wt-text-2 wt-text-2_theme_dark wtu-page-footer__link"><svg viewBox="0 0 24 24" class="wt-icon wt-icon_size_m wt-icon_theme_dark"><path d="M18 7h-3a3 3 0 0 0-3 3v1H6a3 3 0 0 0-3 3v7h9v-4h9v-7a3 3 0 0 0-3-3z"></path><circle cx="16" cy="3" r="2"></circle><circle cx="8" cy="7" r="2"></circle></svg><a class="wt-link wt-link_hardness_hard wt-link_theme_dark" href="https://datalore-forum.jetbrains.com/" target="_blank">Community forum</a></div><div class="wt-text-2 wt-text-2_theme_dark wtu-page-footer__link"><svg viewBox="0 0 24 24" class="wt-icon wt-icon_size_m wt-icon_theme_dark"><path d="m7 8.9h-5v5.1h4v2a4.01176 4.01176 0 0 0 4 4 4.07987 4.07987 0 0 0 4-3.5l7 2.4v-14.9zm5 7.1a2 2 0 0 1 -4 0v-1.5l4 1.4z"></path></svg><a class="wt-link wt-link_hardness_hard wt-link_theme_dark" href="https://blog.jetbrains.com/datalore/" target="_blank">Blog</a></div></div></div></div></div></div></div></main></div></div>
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe sandbox="allow-scripts" src="https://www.googletagmanager.com/ns.html?id=GTM-N48QGT7J"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<!-- Cookie banner -->
+<script defer type="text/javascript"
+        src="//resources.jetbrains.com/storage/ui/cookies-banner-4.js">
+</script>
+<link rel="stylesheet"
+      href="//resources.jetbrains.com/storage/ui/cookies-banner-4.css">
+<!-- End Cookie banner -->
+
+
+
+
+
+
+
+
+<script defer src='//www.google-analytics.com/analytics.js?aip=1'></script>
+<script type="text/javascript">
+  window.ga = window.ga || function () {
+    (ga.q = ga.q || []).push(arguments)
+  };
+  ga.l = Date.now();
+  ga('create', 'UA-68034201-6', 'auto');
+  ga('create', 'UA-47631155-3', 'auto', 'ads');
+  ga('send', 'pageview', location.pathname);
+</script>
+
+
+
+</body>
+</html>
